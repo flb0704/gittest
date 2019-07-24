@@ -80,7 +80,7 @@ snowflake:
   workerId: 20
   isUseSystemClock: true
 beantalk:
-  host: 192.168.169.43
+  host: 192.168.169.44
   port: 11300
 #转账private Key
 callback:
